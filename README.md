@@ -1,3 +1,6 @@
 # Stenograph
 Powerfull stenographic tool to hide data in files
-this tool is in construction
+
+use sten.exe to hide data
+
+use dec.exe de extract data
